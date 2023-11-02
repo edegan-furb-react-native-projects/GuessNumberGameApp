@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Guess The Number Game App</h1>
   <p>
-    React Native - Diving Deeper into Components, Layouts & Styling.
+   React Native - Diving Deeper into Components, Layouts, Styling, Adapt to Platform & Device Sizes
   </p>
   <p>
   <a href="https://github.com/edegan-furb/GuessNumberGameApp/graphs/contributors">
