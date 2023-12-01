@@ -1,8 +1,5 @@
-<div align="center">
-  <h1>Guess The Number Game App</h1>
-  <p>
-   React Native - Diving Deeper into Components, Layouts, Styling, Adapt to Platform & Device Sizes
-  </p>
+# AuthApp
+ </p>
   <p>
   <a href="https://github.com/edegan-furb/GuessNumberGameApp/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/edegan-furb/GuessNumberGameApp" alt="contributors" />
@@ -17,8 +14,52 @@
     <img src="https://img.shields.io/github/stars/edegan-furb/GuessNumberGameApp" alt="stars" />
   </a>
 </p>
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactNative" alt="ReactNative " width="45" height="45"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript " width="45" height="45"/>&nbsp;
+<table>
+<tr>
+<td>
+ This project is designed to practice what I have learned, with the primary focus on implementing components, layouts, styling, adapt to platform & device Sizes. 
+</td>
+</tr>
+</table>
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/edegan-furb/GuessNumberGameApp.git
+
+# Go into the repository
+$ cd GuessNumberGameApp
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npx expo start 
+```
+
+> **Note**
+> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## Built with 
+
+- [React-Native](https://reactnative.dev/) -  Framework for making apps for Cross-platform mobile devices.
+- [Expo](https://expo.dev/) - Platform for making universal native apps for Android, iOS, and the web.
+
+## Screens
+
+> GameStart, Game and GameOver Screens.
+
+<p align="center">
+  <a>
+    <img src="https://github.com/edegan-furb/GuessNumberGameApp/blob/master/assets/Screenshot_1701453206.png" alt="GameStart" title="GameStart Screen" height="500" width="250">
+  </a>
+  <a>
+    <img src="https://github.com/edegan-furb/GuessNumberGameApp/blob/master/assets/Screenshot_1701453222.png" alt="Game" title="Game Screen" height="500" width="250">
+  </a>
+  <a>
+    <img src="https://github.com/edegan-furb/GuessNumberGameApp/blob/master/assets/Screenshot_1701453229.png" alt="GameOver" title="GameOver Screen" height="500" width="250">
+  </a>
 </p>
-</div>
