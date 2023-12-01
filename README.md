@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td>
- This project is designed to practice what I have learned, with the primary focus on implementing components, layouts, styling, adapt to platform & device Sizes. 
+ This project is designed to practice what I have learned, with the primary focus on implementing components, layouts, styling, adapt to platform & device sizes. 
 </td>
 </tr>
 </table>
