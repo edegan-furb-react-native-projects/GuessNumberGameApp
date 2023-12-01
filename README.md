@@ -1,4 +1,4 @@
-# AuthApp
+# GuessNumberGameApp
  </p>
   <p>
   <a href="https://github.com/edegan-furb/GuessNumberGameApp/graphs/contributors">
